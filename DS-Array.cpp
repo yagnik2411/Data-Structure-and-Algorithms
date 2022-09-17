@@ -120,7 +120,7 @@ using namespace std;
            }
         };
 
- //using myarray in main::       
+ //using myarray in main()::       
    
 int main() 
 {
